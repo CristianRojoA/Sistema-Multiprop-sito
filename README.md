@@ -142,5 +142,4 @@ El demonio usa un `set` protegido por `file_lock` para evitar procesar el mismo 
 
 | Subdominio | Uso | Puerto |
 |------------|-----|--------|
-| `test.appscristianrojo.cl` | Conexión TCP del cliente | 9000 |
 | `web.appscristianrojo.cl` | Interfaz web (Cloudflare Tunnel) | 443 (HTTPS) |
